@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "meishi_pico")(type "KiCad")(uri "${KIPRJMOD}/meishi_pico.pretty")(options "")(descr ""))
+)
